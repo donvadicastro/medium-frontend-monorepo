@@ -380,4 +380,4 @@ nx affected:e2e</pre>
       `;
   }
 }
-customElements.define('islands-arch-webpack-cusotm-element', AppElement);
+customElements.define('islands-arch-webpack-custom-element', AppElement);
