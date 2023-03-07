@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { PiletApi } from '@donvadicastro/intapp-host-demo';
+import { PiletApi } from '@donvadicastro/piral-shell-demo';
 import { Menu } from './components/Menu';
 import { Tile } from './components/Tile';
 import { Page } from './components/Page';

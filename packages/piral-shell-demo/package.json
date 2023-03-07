@@ -1,6 +1,6 @@
 {
-  "name": "piral-shell-demo",
-  "version": "1.1.0",
+  "name": "@donvadicastro/piral-shell-demo",
+  "version": "1.2.0",
   "description": "The emulator for the piral-demo app shell.",
   "keywords": [
     "piral"
