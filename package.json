@@ -6,7 +6,7 @@
     "piral-shell-demo:start": "nx serve @donvadicastro/piral-shell-demo"
   },
   "stackblitz": {
-    "startCommand": "npm run piral-shell-demo:start"
+    "startCommand": "turbo run build --cwd=./packages/piral-shell-demo"
   },
   "private": true,
   "dependencies": {},
