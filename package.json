@@ -5,6 +5,9 @@
   "scripts": {
     "piral-shell-demo:start": "nx serve @donvadicastro/piral-shell-demo"
   },
+  "stackblitz": {
+    "startCommand": "piral-shell-demo:start"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
