@@ -5,14 +5,15 @@
   "scripts": {
     "build": "nx run-many --target=build",
     "test": "nx run-many --target=test",
+    "lint": "nx run-many --target=lint",
     "piral-shell-demo:start": "nx serve @donvadicastro/piral-shell-demo"
   },
   "stackblitz": {
     "startCommand": "cd ./packages/piral-shell-demo && npm run serve"
   },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@nrwl/linter": "^15.9.2",
     "@nrwl/nx-cloud": "latest",
     "nx": "15.8.5",
     "prettier": "^2.6.2"
