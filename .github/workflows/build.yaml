@@ -1,4 +1,3 @@
--- node-based github action to build and test application
 name: Build
 on: [push]
 jobs:
