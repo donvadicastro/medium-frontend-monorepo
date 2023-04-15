@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "build": "nx run-many --target=build",
+    "test": "nx run-many --target=test",
     "piral-shell-demo:start": "nx serve @donvadicastro/piral-shell-demo"
   },
   "stackblitz": {
